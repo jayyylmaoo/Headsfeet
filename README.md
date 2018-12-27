@@ -10,3 +10,6 @@ invisible heads on Pyro's.
 3. Extract the .vpk to steam > steamapps > common > Team Fortress 2 > tf > custom
 
 You should now be able to boot into your game and have the mod load perfectly.
+
+
+As of December 2018, I will no longer be maintaining this mod.
